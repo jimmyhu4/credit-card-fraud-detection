@@ -6,7 +6,7 @@ The source code is compatible with TensorFlow 1.2 and Keras 2.0.4.
 
 You can run `fraud_detection.ipynb` Jupyter notebook by clicking the Binder button below and launching the notebook from the Binder environment
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimmyhu4 / credit-card-fraud-detection/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimmyhu4/credit-card-fraud-detection/master)
 
 
 ## Reference
