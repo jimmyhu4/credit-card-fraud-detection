@@ -15,5 +15,4 @@ dependencies:
   - tensorflow==1.2
   - scipy
   - seaborn
-  - pylab-sdk
   - sklearn
