@@ -1,16 +1,13 @@
-# Credit Card Fraud Detection using Autoencoders in Keras
+# Credit Card Fraud Detection using Deep Learning
 
-The source code is compatible with TensorFlow 1.2 and Keras 2.0.4
+The source code is compatible with TensorFlow 1.2 and Keras 2.0.4.
 
-### Hands-On Machine Learning from Scratch
+### How to Start
 
-Interested in deeper understanding of Machine Learning algorithms? Implement them in Python from scratch:
+You can run `fraud_detection.ipynb` Jupyter notebook by clicking the Binder button below and launching the notebook from the Binder environment
 
-<a href="https://leanpub.com/hmls" target="_blank">
-  <img src="https://raw.githubusercontent.com/curiousily/Machine-Learning-from-Scratch/master/.github/book-cover.png" width="250">
-</a>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimmyhu4 / credit-card-fraud-detection/master)
 
-<a href="https://leanpub.com/hmls" target="_blank">Read the book here</a>
 
 ## Reference
 
