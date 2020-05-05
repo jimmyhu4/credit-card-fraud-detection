@@ -1,0 +1,19 @@
+name: fraud_detection
+channels:
+- defaults
+- conda-forge
+dependencies:
+- ipykernel>=4.6.1
+- jupyter>=1.0.0
+- numpy>=1.13.3
+- pandas>=0.23.4
+- python=3.6
+- pip:
+  - matplotlib
+  - scikit-learn
+  - keras==2.0.4
+  - tensorflow==1.2
+  - scipy
+  - seaborn
+  - pylab-sdk
+  - sklearn
